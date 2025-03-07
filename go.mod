@@ -1,6 +1,6 @@
 module main_api
 
-go 1.19.13
+go 1.20
 
 require (
 	github.com/gin-gonic/gin v1.8.2
